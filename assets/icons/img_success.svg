@@ -1,0 +1,18 @@
+<svg width="175" height="170" viewBox="0 0 175 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="88" cy="86" r="67" fill="url(#paint0_linear_154_1443)"/>
+<circle cx="168" cy="26" r="7" fill="#4D5DFA"/>
+<circle cx="19.5" cy="9.5" r="9.5" fill="#4D5DFA"/>
+<circle cx="10.5" cy="125.5" r="4.5" fill="#4D5DFA"/>
+<circle cx="60" cy="167" r="3" fill="#4D5DFA"/>
+<circle cx="156.5" cy="151.5" r="2.5" fill="#4D5DFA"/>
+<circle cx="115" cy="162" r="1" fill="#4D5DFA"/>
+<circle cx="161" cy="105" r="2" fill="#4D5DFA"/>
+<circle cx="1" cy="71" r="1" fill="#4D5DFA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M78.2577 63.4998H97.7652C105.393 63.4998 110.5 68.8548 110.5 76.8198V95.2045C110.5 103.145 105.393 108.5 97.7652 108.5H78.2577C70.6302 108.5 65.5002 103.145 65.5002 95.2045V76.8198C65.5002 68.8548 70.6302 63.4998 78.2577 63.4998ZM86.7177 92.7273L97.4052 82.0398C98.1702 81.2748 98.1702 80.0373 97.4052 79.2498C96.6402 78.4848 95.3802 78.4848 94.6152 79.2498L85.3227 88.5423L81.3852 84.6048C80.6202 83.8398 79.3602 83.8398 78.5952 84.6048C77.8302 85.3698 77.8302 86.6073 78.5952 87.3948L83.9502 92.7273C84.3327 93.1098 84.8277 93.2898 85.3227 93.2898C85.8402 93.2898 86.3352 93.1098 86.7177 92.7273Z" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear_154_1443" x1="21" y1="86" x2="155" y2="86" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D78EB"/>
+<stop offset="1" stop-color="#4D5DFA"/>
+</linearGradient>
+</defs>
+</svg>
